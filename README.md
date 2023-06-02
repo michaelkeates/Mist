@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/648605755/b66079ae-f404-49e6-bf8b-d009f7d708aa" width="512px"/>
+  <img src="https://repository-images.githubusercontent.com/648605755/b3fb64b6-5b86-4191-bdfd-1414bd08a6ef" width="512px"/>
 </p>
 <h1 align="center">Mist Website</h1>
 <p align="center">
