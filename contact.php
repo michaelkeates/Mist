@@ -148,7 +148,7 @@ include_once 'header.php';
     <!--========= GOOGLE MAPS API ===============-->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script src="assets/js/googlemaps.js"></script>
-    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDahL56UkblqQk8fuYc5lmrTKQk2KHO3h0&callback=initMap"></script>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=APIKEY&callback=initMap"></script>
 
     <!--======= LOGIN/REGISTER TOGGLE TOGGLE SLIDE ===============-->
     <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script>
