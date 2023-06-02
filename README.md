@@ -25,11 +25,11 @@ Mist is a responsive 'gaming platform' website inspired by 'Steam' and developed
 <br></br>
 <br></br>
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.24.png" width="75%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.24.jpeg" width="75%"/>
 </p>
 <br></br>
 <h2 align="left">Description</h1>
-This website was developed for an assigment set by the University of South Wales during Year 2 of HND where it was required to implement a client/server based (dynamic) website using any suitable web technologies which was further developed from a previous assigment. A suitable backend database was implemented in MySQL using PhPMyAdmin. The following features was added:
+This website was developed for an assigment set by the University of South Wales during Year 2 of HND where it was required to implement a client/server based (dynamic) website using any suitable web technologies which was further developed from a previous assigment. A suitable backend database was implemented in MySQL using PhPMyAdmin. The following features were added:
 
 <h3 align="left">Features</h3>
 <ul>
@@ -44,17 +44,17 @@ This website was developed for an assigment set by the University of South Wales
 <h2 align="left">Images</h1>
 
 <p align="center">
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.42.46.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.42.54.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.04.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.24.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.34.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.43.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.51.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.59.png" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.44.32.png" width="100px" height="95px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.44.50.png" width="100px" height="95px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.45.14.png" width="100px" height="95px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.42.46.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.42.54.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.04.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.24.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.34.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.43.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.51.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.59.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.44.32.jpeg" width="100px" height="95px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.44.50.jpeg" width="100px" height="95px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.45.14.jpeg" width="100px" height="95px"/>
 </p>
 <br></br>
 <h2 align="left">Getting Started</h1>
