@@ -43,7 +43,6 @@ This website was developed for an assigment set by the University of South Wales
 
 <h2 align="left">Images</h1>
 
-<p align="center">
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.42.46.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.42.54.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.43.04.jpeg" width="100px" height="67px"/>
@@ -55,7 +54,6 @@ This website was developed for an assigment set by the University of South Wales
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.44.32.jpeg" width="100px" height="95px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.44.50.jpeg" width="100px" height="95px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-02-at-12.45.14.jpeg" width="100px" height="95px"/>
-</p>
 <br></br>
 <h2 align="left">Getting Started</h1>
 
