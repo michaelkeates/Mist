@@ -62,7 +62,7 @@ This website was developed for an assigment set by the University of South Wales
 <p>Vist here for a <a href="https://mist.michaelkeates.co.uk">Live Demo</a>.</p>
 </ul>
 <ul>
-<p>Login credentials are "test" for the username and "test" for the password. Some features have been removed/disabled but can be viewed in the code.</p>
+<p>Login credentials are "admin" for the username and "admin" for the password. Some features have been removed/disabled but can be viewed in the code.</p>
 </ul>
 
 <h3 align="left">Author</h3>
