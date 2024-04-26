@@ -2,25 +2,7 @@
   <img src="https://repository-images.githubusercontent.com/648605755/b3fb64b6-5b86-4191-bdfd-1414bd08a6ef" width="512px"/>
 </p>
 <h1 align="center">Mist Website</h1>
-<p align="center">
 
-<a href="http://unlicense.org/">
-<img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
-</a>
-
-<a href="https://github.com/michaelkeates/mist/issues">
-<img src="https://img.shields.io/github/issues/michaelkeates/mist.svg" alt="Issues">
-</a>
-
-<a href="https://github.com/michaelkeates/mist/fork">
-<img src="https://img.shields.io/github/forks/michaelkeates/mist.svg" alt="Forks">
-</a>
-
-<a href="https://github.com/michaelkeates/mist">
-<img src="https://img.shields.io/github/stars/michaelkeates/mist.svg" alt="Stars">
-</a>
-
-</p>
 Mist is a responsive 'gaming platform' website inspired by 'Steam' and developed using PHP, HTML, CSS & JavaScript.
 <br></br>
 <br></br>
